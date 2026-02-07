@@ -159,5 +159,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
-Drake Harbert — NWHarbert8@gmail.com  
+Drake Harbert — Drake@innerarchitecturellc.com 
 Inner Architecture LLC, Canton, Ohio
